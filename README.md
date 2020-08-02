@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👀, I'm Mau</h1>
-<h3 align="center">I'm an engeneering student at Tecnológico Nacional de México en Roque and proud GitKraken Ambassador 🦑. Right now i am focused on completing the Github Campus Expert program. Few months ago, some friends and me founded that is a student community to help us each others to improve our software development skills and build amazing projects.</h3>
+<h3 align="center">I'm an engeneering student at Tecnológico Nacional de México en Roque and proud GitKraken Ambassador 🦑. Right now i am focused on completing the Github Campus Expert program. Few months ago, some friends and me founded Roqbyte that is a student community to help us each others to improve our software development skills and build amazing projects.</h3>
 
 - 🔭 I’m currently working at [Gam Labs. 🧪](gamlabs.com.mx)
 
