@@ -1,17 +1,48 @@
-<h1 align="center">Hey 👋, I'm Mau</h1>
+<h1 align="center">🚀 Hey, I'm Mau</h1>
 <h3 align="center">
-Backend Engineering Lead who loves building scalable systems and making things faster ⚡  
-Currently at <a href="https://www.backbonesystems.io/" target="_blank">Backbone Systems</a> — turning days-long processes into hours with Apache Spark on AWS EMR, saving money and headaches.  
-Fan of clean code, strong coffee ☕, and learning new tech (right now: Go & distributed systems).
+Backend Engineering Lead | Scalable Systems | Go Enthusiast  
 </h3>
 
-- 💻 I build stuff with **Laravel**, **Go**, **PostgreSQL**, **AWS**, and sometimes **Apache Spark**.  
-- 🚀 I enjoy optimizing systems until they run like a rocket.  
-- 🌱 Always learning, always experimenting.  
-- 📫 Reach me at **mau1361317@gmail.com**  
+<p align="center">
+I design and optimize backend systems so they run faster, smarter, and at scale.  
+Big believer in clean code, meaningful teamwork, and coffee-powered problem solving ☕.  
+</p>
+
+---
+
+### 🔧 Tech Stack
+- **Backend:** Laravel · PHP · Go · Python  
+- **Data:** PostgreSQL · Apache Spark  
+- **Cloud:** AWS (EC2, S3, EMR, RDS, Step Functions, SQS)  
+- **DevOps:** Docker · GitHub Actions  
+- **Other:** REST APIs · Distributed Systems  
+
+---
+
+### 📌 What I Do
+- Lead backend engineering for fintech platforms.  
+- Build **scalable APIs** and backend services with Laravel, Go and Python.  
+- Optimize pipelines to **cut execution time from days to hours**.  
+- Design and improve architectures for high availability & cost efficiency.  
+- Mentor developers and drive backend best practices.  
+
+---
+
+### 🌱 Currently Learning
+- Advanced distributed processing with Spark on AWS EMR  
+- Go microservices & concurrency patterns  
+
+---
+
+### 📫 Get in Touch
+- **Email:** mau1361317@gmail.com  
+- **LinkedIn:** [linkedin.com/in/mauriciofloresh](https://www.linkedin.com/in/mauriciofloresh)  
+- **Medium:** [medium.com/@mau1361317](https://medium.com/@mau1361317)  
+
+---
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mauriciofloresh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="20" width="20" /></a>
-<a href="https://instagram.com/mauricio_____h.java" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="20" width="20" /></a>
-<a href="https://medium.com/@mau1361317" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="medium" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/mauricio-flores-hern%C3%A1ndez-b86b27166" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" /></a>
+<a href="https://medium.com/@mau1361317" target="_blank"><img src="https://img.shields.io/badge/Medium-Articles-black?style=flat-square&logo=medium" /></a>
+<a href="https://instagram.com/mauricio_____h.java" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
