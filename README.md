@@ -36,13 +36,13 @@ Big believer in clean code, meaningful teamwork, and coffee-powered problem solv
 
 ### 📫 Get in Touch
 - **Email:** mau1361317@gmail.com  
-- **LinkedIn:** [linkedin.com/in/mauriciofloresh](https://www.linkedin.com/in/mauriciofloresh)  
-- **Medium:** [medium.com/@mau1361317](https://medium.com/@mau1361317)  
+- **LinkedIn:** [linkedin.com/in/mauriciofloresh](https://www.linkedin.com/in/mauricio-flores-hern%C3%A1ndez-b86b27166)  
+
 
 ---
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mauricio-flores-hern%C3%A1ndez-b86b27166" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" /></a>
-<a href="https://medium.com/@mau1361317" target="_blank"><img src="https://img.shields.io/badge/Medium-Articles-black?style=flat-square&logo=medium" /></a>
-<a href="https://instagram.com/mauricio_____h.java" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+
+<a href="https://instagram.com/mauricio.xyz" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
