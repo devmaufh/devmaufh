@@ -13,7 +13,7 @@ Big believer in clean code, meaningful teamwork, and coffee-powered problem solv
 ### 🔧 Tech Stack
 - **Backend:** Laravel · PHP · Go · Python  
 - **Data:** PostgreSQL · Apache Spark  
-- **Cloud:** AWS (EC2, S3, EMR, RDS, Step Functions, SQS)  
+- **Cloud:** AWS (EC2, S3, EMR, RDS, Step Functions, SQS, ECS, ECR)  
 - **DevOps:** Docker · GitHub Actions  
 - **Other:** REST APIs · Distributed Systems  
 
